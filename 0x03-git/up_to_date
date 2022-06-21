@@ -1,4 +1,7 @@
-The Common Git Command Line Used includes the following:
+git pull
+
+Apart from git pull
+The Common Git Command Used includes the following:
 
 git clone ----- to clone our repository
 
