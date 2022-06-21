@@ -1,0 +1,15 @@
+The Common Git Command Line Used includes the following:
+
+git clone ----- to clone our repository
+
+our changes are made using the shell navigation commands
+cd, pwd, ls, ls -la, touch, echo, less, mkdir, mv, cp, etc.
+
+git add . is used to stage our changes
+
+git commit -m is used to save our changes
+
+while git push is used to upload our changes into our repository in the remote server
+
+
+That's just a little for now.
